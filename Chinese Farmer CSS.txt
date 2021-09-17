@@ -1,0 +1,68 @@
+.table {
+    border: 3px solid #333;
+    border-collapse: collapse;
+    padding: 5px 10px;
+    font-size: 20px
+
+}
+
+.preamble{
+    margin-left: -25px;
+    font-size: 18px;
+}
+
+.paragraph{
+    font-family: sans-serif;
+    white-space: pre-wrap;
+    color: lightgrey;
+    font-size: 18px;
+}
+.farm{
+    font-size: 20px;
+    text-align: center;
+}
+.Wiki{
+    font-size: 20px;
+    text-align: center;
+}
+.ebay{
+    font-size: 20px;
+    text-align: center;
+}
+
+.citation{
+    font-style: italic;
+    font-size: 25px;
+}
+.body{
+    max-width: 90%;
+    margin: 25px 25px;
+    background-position: bottom;
+    background-size: auto;
+}
+
+.footer{
+    text-align: center;
+    font-style: initial;
+    font-size: 24px;
+    color: darkolivegreen;
+}
+.story{
+    text-align: center;
+}
+.pagetitle{
+    margin-left: 15px;
+}
+.date{
+    font-size: 18px;
+}
+
+.head{
+    background-color: yellow;
+}
+.good {color: green;}
+.bad {color: red;}
+.image {
+    float: right;
+    margin: 5px;
+}
